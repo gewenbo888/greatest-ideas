@@ -357,7 +357,7 @@ export const STR = {
       en: "Greatness is not loudness or proof. It is fertility — how many other thoughts a thought permits to exist. Fire permitted the brain. The brain permitted language. Language permitted the experiment. The experiment permitted everything else. Each entry in this list was chosen because it opened a door that did not close behind it. Most ideas you can have stop at themselves. A few keep generating. Those are the greatest.",
       zh: "伟大并非声量，亦非证明。伟大是生育力——一个想法允许多少其他想法得以存在。火允许了大脑。大脑允许了语言。语言允许了实验。实验允许了之后的一切。这份名单中的每一条之所以入选，是因为它打开的门没有再合上。绝大多数你能想到的想法都止于自身。少数几个仍在不断生育。它们便是最伟大的。",
     },
-    sign:  { en: "— Gewenbo", zh: "— 葛文博" },
+    sign:  { en: "— Gewenbo", zh: "— Gewenbo" },
   },
   ui: {
     lang:   { en: "中文",       zh: "EN" },
@@ -366,7 +366,7 @@ export const STR = {
     of:     { en: "of",         zh: "/" },
   },
   footer: {
-    line: { en: "An essay by Gewenbo, part of the Psyverse.", zh: "葛文博撰 · 隶属 Psyverse 系列。" },
+    line: { en: "An essay by Gewenbo, part of the Psyverse.", zh: "Gewenbo 撰 · 隶属 Psyverse 系列。" },
   },
 } as const;
 

@@ -84,7 +84,7 @@ export default function Page() {
         </div>
         {/* Folio marks in corners */}
         <div className="absolute top-24 left-6 folio">i</div>
-        <div className="absolute bottom-6 right-6 folio">{lang === "zh" ? "葛文博" : "GEWENBO"} · 2026</div>
+        <div className="absolute bottom-6 right-6 folio">GEWENBO · 2026</div>
       </section>
 
       {/* ───── EPOCH FILTER RAIL (sticky in grid mode) ─────────── */}
