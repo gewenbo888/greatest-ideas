@@ -58,6 +58,7 @@ export const metadata: Metadata = {
     languages: { en: "/", "zh-CN": "/", "x-default": "/" },
   },
   openGraph: {
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "The Greatest Ideas · 最伟大的想法" }],
     title: "The Greatest Ideas — 64 entries · 8 epochs",
     description: "An opinionated canon of the ideas that opened doors nothing closed behind.",
     url: "https://greatest-ideas.psyverse.fun/",
@@ -67,6 +68,7 @@ export const metadata: Metadata = {
     alternateLocale: ["zh_CN"],
   },
   twitter: {
+    images: ["/twitter-image.png"],
     card: "summary_large_image",
     title: "The Greatest Ideas",
     description: "An opinionated canon, 1.5 million years long.",
